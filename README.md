@@ -9,7 +9,8 @@ Dieses Repository enthält ein Python-Skript, das eine grafische Benutzeroberfl�
 
   ```bash
   pip install -r requirements.txt
-##Anwendung starten
+  
+## Anwendung starten
 Öffne die Befehlszeile (Command Prompt) oder das Terminal.
 
 Wechsle zum Verzeichnis, in dem das Skript liegt.
@@ -32,7 +33,7 @@ pyinstaller --onefile --noconsole --icon=icons\icon.ico register.py
 ````
 Die ausführbare Datei wird im dist-Verzeichnis erstellt.
 
-##Benutzung
+## Benutzung
 Gib die IP-Adresse, den Benutzernamen, das Passwort und den Client-Identifier ein.
 Klicke auf "Anfrage senden".
 Kopiere den generierten Token aus dem angezeigten Dialogfenster.
