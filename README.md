@@ -37,4 +37,5 @@ Die ausführbare Datei wird im dist-Verzeichnis erstellt.
 Gib die IP-Adresse, den Benutzernamen, das Passwort und den Client-Identifier ein.
 Klicke auf "Anfrage senden".
 Kopiere den generierten Token aus dem angezeigten Dialogfenster.
+![image](https://github.com/Hennycraft52/Gira-Homserver-Client-Register/assets/122104659/b07880d3-278a-4666-816c-1f4d1ccc9390)
 
