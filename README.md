@@ -9,7 +9,7 @@ Dieses Repository enthält ein Python-Skript, das eine grafische Benutzeroberfl�
 
   ```bash
   pip install -r requirements.txt
-###Anwendung starten
+##Anwendung starten
 Öffne die Befehlszeile (Command Prompt) oder das Terminal.
 
 Wechsle zum Verzeichnis, in dem das Skript liegt.
